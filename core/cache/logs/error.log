@@ -1,0 +1,116 @@
+[2026-05-07 20:12:07] (ERROR @ C:\xampp\htdocs\Grotesk\setup\includes\modinstallsettings.class.php : 146) PHP warning: fopen(C:/xampp/htdocs/Grotesk/core/cache/setup/settings.cache.php): Failed to open stream: No such file or directory
+[2026-05-07 20:12:09] (ERROR @ C:\xampp\htdocs\Grotesk\core\cache\setup\smarty\cfa0bec05335106495969501de4fc421cc3fd083_0.file.complete.tpl.php : 30) PHP warning: Undefined array key "errors"
+[2026-05-07 20:12:09] (ERROR @ C:\xampp\htdocs\Grotesk\core\cache\setup\smarty\cfa0bec05335106495969501de4fc421cc3fd083_0.file.complete.tpl.php : 30) PHP warning: Attempt to read property "value" on null
+[2026-05-07 20:12:11] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 528) PHP warning: rmdir(C:/xampp/htdocs/Grotesk/setup/): Directory not empty
+[2026-05-07 20:14:07] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-07 20:14:07] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://feeds.feedburner.com/modx-announce and cache is off
+[2026-05-07 20:14:08] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-07 20:14:08] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://forums.modx.com/board.xml?board=294 and cache is off
+[2026-05-07 20:21:34] (ERROR @ C:\xampp\htdocs\Grotesk\core\cache\mgr\smarty\default\0711fd151ffb5d9bd244c5dab72ed2a033cb8caf_0.file.update.tpl.php : 46) PHP warning: Undefined array key "onRichTextEditorInit"
+[2026-05-07 20:21:34] (ERROR @ C:\xampp\htdocs\Grotesk\core\cache\mgr\smarty\default\0711fd151ffb5d9bd244c5dab72ed2a033cb8caf_0.file.update.tpl.php : 46) PHP warning: Attempt to read property "value" on null
+[2026-05-07 20:31:16] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 335) PHP warning: mkdir(): File exists
+[2026-05-07 20:31:16] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 340) PHP warning: mkdir(): File exists
+[2026-05-07 20:53:56] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-07 20:53:56] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://feeds.feedburner.com/modx-announce and cache is off
+[2026-05-07 20:53:58] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-07 20:53:58] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://forums.modx.com/board.xml?board=294 and cache is off
+[2026-05-08 20:17:34] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-08 20:17:34] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://feeds.feedburner.com/modx-announce and cache is off
+[2026-05-08 20:17:35] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-08 20:17:35] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://forums.modx.com/board.xml?board=294 and cache is off
+[2026-05-08 20:19:04] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 335) PHP warning: mkdir(): File exists
+[2026-05-08 20:19:04] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 340) PHP warning: mkdir(): File exists
+[2026-05-08 20:19:04] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 335) PHP warning: mkdir(): File exists
+[2026-05-08 20:19:04] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 340) PHP warning: mkdir(): File exists
+[2026-05-08 20:21:23] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 335) PHP warning: mkdir(): File exists
+[2026-05-08 20:21:23] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 340) PHP warning: mkdir(): File exists
+[2026-05-08 20:33:22] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 335) PHP warning: mkdir(): File exists
+[2026-05-08 20:33:22] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 340) PHP warning: mkdir(): File exists
+[2026-05-08 20:44:54] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 335) PHP warning: mkdir(): File exists
+[2026-05-08 20:44:54] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 340) PHP warning: mkdir(): File exists
+[2026-05-08 20:44:54] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 335) PHP warning: mkdir(): File exists
+[2026-05-08 20:44:54] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 340) PHP warning: mkdir(): File exists
+[2026-05-09 18:59:19] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-09 18:59:19] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://feeds.feedburner.com/modx-announce and cache is off
+[2026-05-09 18:59:21] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-09 18:59:21] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://forums.modx.com/board.xml?board=294 and cache is off
+[2026-05-09 19:14:46] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 335) PHP warning: mkdir(): File exists
+[2026-05-09 19:14:46] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\phpthumb\phpthumb.class.php : 1591) PHP warning: file_get_contents(C:\xampp\htdocs\Grotesk\core\cache\phpthumb\phpThumbCacheIMversion.txt): Failed to open stream: No such file or directory
+[2026-05-09 19:14:46] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\phpthumb\phpthumb.class.php : 1591) PHP warning: file_get_contents(C:\xampp\htdocs\Grotesk\core\cache\phpthumb\phpThumbCacheIMversion.txt): Failed to open stream: No such file or directory
+[2026-05-09 19:14:46] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\phpthumb\phpthumb.class.php : 1518) PHP warning: file_get_contents(C:\xampp\htdocs\Grotesk\core\cache\phpthumb\phpThumbCacheIMcommandlineBase.txt): Failed to open stream: No such file or directory
+[2026-05-09 19:14:46] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\phpthumb\phpthumb.class.php : 1591) PHP warning: file_get_contents(C:\xampp\htdocs\Grotesk\core\cache\phpthumb\phpThumbCacheIMversion.txt): Failed to open stream: No such file or directory
+[2026-05-09 19:14:46] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 335) PHP warning: mkdir(): File exists
+[2026-05-09 19:14:46] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\phpthumb\phpthumb.class.php : 1518) PHP warning: file_get_contents(C:\xampp\htdocs\Grotesk\core\cache\phpthumb\phpThumbCacheIMcommandlineBase.txt): Failed to open stream: No such file or directory
+[2026-05-09 19:14:46] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 340) PHP warning: mkdir(): File exists
+[2026-05-09 19:15:39] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-09 19:15:39] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://feeds.feedburner.com/modx-announce and cache is off
+[2026-05-09 19:15:41] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-09 19:15:41] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://forums.modx.com/board.xml?board=294 and cache is off
+[2026-05-09 19:51:29] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-09 19:51:29] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://feeds.feedburner.com/modx-announce and cache is off
+[2026-05-09 19:51:30] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-09 19:51:30] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://forums.modx.com/board.xml?board=294 and cache is off
+[2026-05-09 20:03:55] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 335) PHP warning: mkdir(): File exists
+[2026-05-09 20:03:55] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 340) PHP warning: mkdir(): File exists
+[2026-05-09 20:49:21] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 335) PHP warning: mkdir(): File exists
+[2026-05-09 20:49:21] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 340) PHP warning: mkdir(): File exists
+[2026-05-10 18:46:25] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\Grotesk\core\xpdo\xpdo.class.php : 3125) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+[2026-05-10 18:46:25] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\om\xpdoquery.class.php : 658) Could not construct or prepare query because it is invalid or could not connect: SELECT `modExtensionPackage`.`id`, `modExtensionPackage`.`namespace`, `modExtensionPackage`.`name`, `modExtensionPackage`.`path`, `modExtensionPackage`.`table_prefix`, `modExtensionPackage`.`service_class`, `modExtensionPackage`.`service_name`, `modExtensionPackage`.`created_at`, `modExtensionPackage`.`updated_at`, Namespace.path AS namespace_path FROM `modx_extension_packages` AS `modExtensionPackage` JOIN `modx_namespaces` `Namespace` ON `modExtensionPackage`.`namespace` =  `Namespace`.`name` ORDER BY namespace ASC 
+[2026-05-10 18:46:29] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\Grotesk\core\xpdo\xpdo.class.php : 3125) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+[2026-05-10 18:46:29] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\om\xpdoquery.class.php : 658) Could not construct or prepare query because it is invalid or could not connect: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ? 
+[2026-05-10 18:46:34] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\Grotesk\core\xpdo\xpdo.class.php : 3125) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+[2026-05-10 18:46:34] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\om\xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ?  - 
+[2026-05-10 18:46:34] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\Grotesk\core\xpdo\xpdo.class.php : 3125) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+[2026-05-10 18:46:34] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\om\xpdoquery.class.php : 658) Could not construct or prepare query because it is invalid or could not connect: SELECT `modExtensionPackage`.`id`, `modExtensionPackage`.`namespace`, `modExtensionPackage`.`name`, `modExtensionPackage`.`path`, `modExtensionPackage`.`table_prefix`, `modExtensionPackage`.`service_class`, `modExtensionPackage`.`service_name`, `modExtensionPackage`.`created_at`, `modExtensionPackage`.`updated_at`, Namespace.path AS namespace_path FROM `modx_extension_packages` AS `modExtensionPackage` JOIN `modx_namespaces` `Namespace` ON `modExtensionPackage`.`namespace` =  `Namespace`.`name` ORDER BY namespace ASC 
+[2026-05-10 18:46:38] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\Grotesk\core\xpdo\xpdo.class.php : 3125) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+[2026-05-10 18:46:38] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\om\xpdoquery.class.php : 658) Could not construct or prepare query because it is invalid or could not connect: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ? 
+[2026-05-10 18:46:38] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\Grotesk\core\xpdo\xpdo.class.php : 3125) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+[2026-05-10 18:46:38] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\om\xpdoquery.class.php : 658) Could not construct or prepare query because it is invalid or could not connect: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ? 
+[2026-05-10 18:46:39] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\om\xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ?  - Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2026-05-10 18:46:39] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\om\xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ?  - Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2026-05-10 18:46:39] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\om\xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('sc0u7nn05lja65eltekshd2p3v', 1778431599, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'sc0u7nn05lja65eltekshd2p3v' for key 'PRIMARY'
+)
+
+[2026-05-10 18:46:39] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\modresponse.class.php : 168) PHP warning: session_write_close(): Failed to write session data using user defined save handler. (session.save_path: C:\xampp\tmp, handler: write)
+[2026-05-10 18:47:12] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-10 18:47:12] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://feeds.feedburner.com/modx-announce and cache is off
+[2026-05-10 18:47:14] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-10 18:47:14] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://forums.modx.com/board.xml?board=294 and cache is off
+[2026-05-10 22:43:52] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-10 22:43:52] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://feeds.feedburner.com/modx-announce and cache is off
+[2026-05-10 22:43:53] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-10 22:43:53] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://forums.modx.com/board.xml?board=294 and cache is off
+[2026-05-11 00:21:02] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-11 00:21:02] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://feeds.feedburner.com/modx-announce and cache is off
+[2026-05-11 00:21:02] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-11 00:21:02] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://forums.modx.com/board.xml?board=294 and cache is off
+[2026-05-11 03:19:44] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-11 03:19:44] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://feeds.feedburner.com/modx-announce and cache is off
+[2026-05-11 03:19:45] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-11 03:19:45] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://forums.modx.com/board.xml?board=294 and cache is off
+[2026-05-11 03:30:03] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-11 03:30:03] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://feeds.feedburner.com/modx-announce and cache is off
+[2026-05-11 03:30:04] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-11 03:30:04] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://forums.modx.com/board.xml?board=294 and cache is off
+[2026-05-11 03:34:55] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 335) PHP warning: mkdir(): File exists
+[2026-05-11 03:34:55] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 340) PHP warning: mkdir(): File exists
+[2026-05-11 03:34:55] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 335) PHP warning: mkdir(): File exists
+[2026-05-11 03:34:55] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 340) PHP warning: mkdir(): File exists
