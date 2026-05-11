@@ -1,8 +1,8 @@
 <?php
 return array (
-  'timestamp' => '2026-05-11 03:38:20',
+  'timestamp' => '2026-05-11 14:35:24',
   'level' => 'INFO',
-  'msg' => '-> web: Обновлено успешно!',
+  'msg' => 'Обновление кэша контекста',
   'def' => '',
   'file' => '/Grotesk/connectors/index.php',
   'line' => '',

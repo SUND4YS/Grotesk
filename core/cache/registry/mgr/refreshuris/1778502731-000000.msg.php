@@ -1,8 +1,8 @@
 <?php
 return array (
-  'timestamp' => '2026-05-11 03:38:20',
+  'timestamp' => '2026-05-11 14:32:11',
   'level' => 'INFO',
-  'msg' => '-> mgr: Обновлено успешно!',
+  'msg' => 'Обновлено успешно!',
   'def' => '',
   'file' => '/Grotesk/connectors/index.php',
   'line' => '',

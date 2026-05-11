@@ -114,3 +114,7 @@ Array
 [2026-05-11 03:34:55] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 340) PHP warning: mkdir(): File exists
 [2026-05-11 03:34:55] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 335) PHP warning: mkdir(): File exists
 [2026-05-11 03:34:55] (ERROR @ C:\xampp\htdocs\Grotesk\core\xpdo\cache\xpdocachemanager.class.php : 340) PHP warning: mkdir(): File exists
+[2026-05-11 14:32:23] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-11 14:32:23] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://feeds.feedburner.com/modx-announce and cache is off
+[2026-05-11 14:32:24] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\extlib\snoopy.class.php : 869) PHP warning: stream_socket_client(): SSL: Удаленный хост принудительно разорвал существующее подключение
+[2026-05-11 14:32:24] (ERROR @ C:\xampp\htdocs\Grotesk\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://forums.modx.com/board.xml?board=294 and cache is off

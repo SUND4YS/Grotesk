@@ -225,6 +225,7 @@ h4 {
 .hero__switch {
     color: var(--light);
     display: flex;
+    flex-direction: row;
     flex-wrap: nowrap;
     align-items: center;
 }
@@ -288,6 +289,7 @@ h4 {
     bottom: 0;
     background: var(--light);
     transition: .4s;
+    width: 45px;
     border-radius: 24px;
 }
 
@@ -565,7 +567,7 @@ input:checked+.slider::before {
 }
 
 .footer {
-    height: 120px;
+    height: 100%;
     width: 100%;
     background: var(--black);
 }
@@ -974,19 +976,14 @@ body {
     color: var(--c1-darker);
 }
 
-/* ==========================================================================
-   АДАПТИВНАЯ ВЕРСТКА НА ФИКСИРОВАННЫХ ПИКСЕЛЯХ (PIXEL-PERFECT)
-   ========================================================================== */
 
-/* 1. ПЛАНШЕТНАЯ ВЕРСИЯ (Ширина экрана до 1200px — перестраиваем сетки под 768px) */
 @media (max-width: 1200px) {
     .container, .header, .hero {
-        max-width: 768px; /* Жесткий размер контейнера для планшета */
+        max-width: 768px; 
         padding-left: 24px;
         padding-right: 24px;
     }
 
-    /* Первый экран (Hero) */
     .hero {
         flex-direction: column;
         align-items: flex-start;
@@ -997,7 +994,7 @@ body {
         max-width: 100%;
     }
     .hero__title {
-        font-size: 52px; /* Фиксированный размер шрифта для планшета */
+        font-size: 52px; 
         max-width: 100%;
     }
     .hero__actions-box {
@@ -1006,7 +1003,6 @@ body {
         padding: 24px 40px;
     }
 
-    /* Композиция картинок на планшете */
     .hero__visual {
         width: 100%;
         display: flex;
@@ -1021,18 +1017,16 @@ body {
         height: 260px;
     }
 
-    /* Блок вопросов (FAQ/Ответы) */
     .answer__elements {
-        grid-template-columns: 1fr !important; /* Перестраиваем в 1 колонку */
+        grid-template-columns: 1fr !important; 
         grid-template-rows: auto !important;
         grid-auto-flow: row !important;
         gap: 16px;
         max-width: 100%;
     }
 
-    /* Форма обратной связи */
     .form__container {
-        grid-template-columns: 1fr; /* Плашки встают друг под друга */
+        grid-template-columns: 1fr; 
         gap: 32px;
         max-width: 768px;
     }
@@ -1042,21 +1036,18 @@ body {
     }
 }
 
-/* 2. МОБИЛЬНАЯ ВЕРСИЯ (Ширина экрана до 576px — перестраиваем под макет 375px) */
 @media (max-width: 576px) {
     .container, .header, .hero {
-        max-width: 375px; /* Жесткий размер контейнера для мобильных */
+        max-width: 375px; 
         padding-left: 16px;
         padding-right: 16px;
     }
 
-    /* Корректировка шапки под 375px */
     .header {
         max-height: 70px;
         padding: 16px;
     }
     
-    /* Шторка выпадающего меню под мобильную шапку */
     .dropdown-menu {
         top: 70px;
         height: calc(100vh - 70px);
@@ -1068,12 +1059,10 @@ body {
         box-shadow: none;
     }
 
-    /* Заголовки на мобильном */
     h1, .h1 { font-size: 34px; }
     h2, .h2 { font-size: 24px; }
     h3, .h3 { font-size: 20px; }
 
-    /* Первый экран (Hero) */
     .hero {
         padding: 32px 16px;
         gap: 32px;
@@ -1083,10 +1072,9 @@ body {
         margin-bottom: 24px;
     }
     .hero__visual {
-        display: none; /* Скрываем сложную графику на мобильных по макету */
+        display: none; 
     }
 
-    /* Кнопки на мобильном растягиваются */
     .hero__actions {
         flex-direction: column;
         width: 100%;
@@ -1101,14 +1089,13 @@ body {
         padding: 16px;
     }
     .hero__switch {
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 12px;
+        flex-direction: row;
+        align-items: center;
+        gap: 24px;
     }
 
-    /* Карточки слайдера (Блок "Сверстал этот слайдер") */
     .element {
-        width: 288px; /* Фиксированная мобильная ширина карточки */
+        width: 288px; 
         min-width: 288px;
         height: 260px;
         min-height: 260px;
@@ -1124,17 +1111,17 @@ body {
         font-size: 13px;
     }
 
-    /* Форма обратной связи */
     .form__info-card, .form__fields-card {
-        padding: 24px 16px; /* Компактные отступы внутри плашек */
+        padding: 24px 16px; 
     }
     .form__submit-btn {
-        width: 100%; /* Кнопка отправки на весь экран */
+        width: 100%;
     }
 
     /* Футер */
     .footer {
         padding: 24px 0;
+        width: 100%;
     }
     .footer__container {
         flex-direction: column;
